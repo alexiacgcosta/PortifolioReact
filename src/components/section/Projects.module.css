@@ -1,0 +1,18 @@
+.project{
+  text-align: justify;
+  margin-left: 75px;
+}
+
+.project h1{
+  font-size: 45px;
+}
+
+.project img{
+  width: 40%;
+  margin: 5%;
+}
+
+.project section{
+  width: 40%;
+  margin-left: 3em;
+}
