@@ -12,8 +12,15 @@
 
 .navbar li {
   margin: 10px;
+  transition-duration: 0.5s;
 }
 
 .navbar a {
   color: aliceblue !important;
+  transition-duration: 0.5s;
+}
+
+.navbar li:hover{
+  transition-duration: 0.5s;
+  transform:translateY(-10px);
 }

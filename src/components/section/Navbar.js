@@ -8,7 +8,7 @@ const Navbar = () => {
     <div className={styles.navbar}>
       <ul>
         <li> <Nav.Link href='#presetation'> Apresentação </Nav.Link> </li>
-        <li> <Nav.Link href='#skills'>Habilidade</Nav.Link> </li>
+        <li> <Nav.Link href='#skills'>Habilidades</Nav.Link> </li>
         <li> <Nav.Link href='#projects'>Projetos</Nav.Link> </li>
       </ul>
       <ul>
